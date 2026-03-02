@@ -12,9 +12,25 @@
   <img src="https://skillicons.dev/icons?i=github" height="28"/>
 </a>
 
-<a href="https://wa.me/201001234567?text=مرحباً،%20أنا%20مهتم%20بخدماتكم" target="_blank" class="whatsapp-button">
+<a href="https://wa.me/201226261924?text=مرحباً،%20أنا%20مهتم%20بخدماتكم" target="_blank" class="whatsapp-button">
     <i class="fab fa-whatsapp"></i> كلمنا على واتساب
 </a>
+.whatsapp-button {
+    background-color: #25D366;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.whatsapp-button:hover {
+    background-color: #128C7E;
+    color: white;
+}
 
 </div>
 <p>
