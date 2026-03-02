@@ -12,8 +12,8 @@
   <img src="https://skillicons.dev/icons?i=github" height="28"/>
 </a>
 
-<a href="mailto:ztkarmabwmtr@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="28"/>
+<a href="https://wa.me/201001234567?text=مرحباً،%20أنا%20مهتم%20بخدماتكم" target="_blank" class="whatsapp-button">
+    <i class="fab fa-whatsapp"></i> كلمنا على واتساب
 </a>
 
 </div>
