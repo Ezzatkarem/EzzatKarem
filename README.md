@@ -12,10 +12,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="28"/>
 </a>
 
-<!-- Font Awesome -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-</style>
 
 <a href="https://wa.me/201226261924?text=مرحباً،%20أنا%20مهتم%20بخدماتكم"  >
   <img src="https://share.google/Te6qQ9lbMQmzO7wxp" height="28"/>
