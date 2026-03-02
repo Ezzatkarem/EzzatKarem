@@ -12,9 +12,10 @@
   <img src="https://skillicons.dev/icons?i=github" height="28"/>
 </a>
 
-<a href="https://wa.me/201226261924?text=مرحباً،%20أنا%20مهتم%20بخدماتكم" target="_blank" class="whatsapp-button">
-    <i class="fab fa-whatsapp"></i> كلمنا على واتساب
-</a>
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<style>
 .whatsapp-button {
     background-color: #25D366;
     color: white;
@@ -25,16 +26,23 @@
     display: inline-flex;
     align-items: center;
     gap: 8px;
+    margin-top: 10px;
 }
 
 .whatsapp-button:hover {
     background-color: #128C7E;
     color: white;
 }
+</style>
+
+<a href="https://wa.me/201226261924?text=مرحباً،%20أنا%20مهتم%20بخدماتكم" target="_blank" class="whatsapp-button">
+    <i class="fab fa-whatsapp"></i> كلمنا على واتساب
+</a>
 
 </div>
+
 <p>
- <img src="https://komarev.com/ghpvc/?username=Muhammed-Mahmoud-Gouda&style=flat&color=3010A0" style="height:25px; object-fit:contain;"/>
+ <img src="https://komarev.com/ghpvc/?username=Ezzatkarem&style=flat&color=3010A0" style="height:25px; object-fit:contain;"/>
 </p>
 
 ## 👨‍💻 About Me
@@ -53,8 +61,10 @@ With a solid foundation in Object-Oriented Programming (OOP)
 🛠️ Tech Stack: C#, .NET, LINQ, SQL Server, OOP  
 🤝 Open to: Backend roles, internships & collaboration on .NET projects  
 📩 Reach me at: ztkarmabwmtr@gmail.com  
+
 <br> <br>
-## 🧰 Tob Tech Stack & Tools
+
+## 🧰 Top Tech Stack & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet" />
@@ -69,11 +79,10 @@ With a solid foundation in Object-Oriented Programming (OOP)
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,obsidian,notion" />
 </p>
 
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammed-Mahmoud-Gouda/Muhammed-Mahmoud-Gouda/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammed-Mahmoud-Gouda/Muhammed-Mahmoud-Gouda/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Muhammed-Mahmoud-Gouda/Muhammed-Mahmoud-Gouda/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ezzatkarem/Ezzatkarem/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ezzatkarem/Ezzatkarem/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ezzatkarem/Ezzatkarem/output/pacman-contribution-graph.svg">
 </picture>
 
 <div align="center">
