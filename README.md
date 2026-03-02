@@ -5,16 +5,14 @@
 
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&color=9400D3&center=true&vCenter=true&width=500&height=70&pause=2000&duration=2000&lines=Visit+my+Social+Accounts)
 
-<a href="https://www.linkedin.com/in/muhammad-mahmoud-gouda">
+<a href="https://www.linkedin.com/in/ezzat-karem-892a70320?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://skillicons.dev/icons?i=linkedin" height="28"/>
 </a>
-<a href="https://github.com/Muhammed-Mahmoud-Gouda">
+<a href="https://github.com/Ezzatkarem">
   <img src="https://skillicons.dev/icons?i=github" height="28"/>
 </a>
-<a href="https://muhammed-mahmoud-portfolio.netlify.app/">
-  <img src="https://skillicons.dev/icons?i=netlify" height="28"/>
-</a>
-<a href="mailto:muhammedmahmoudgoda66@gmail.com">
+
+<a href="mailto:ztkarmabwmtr@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="28"/>
 </a>
 
@@ -38,7 +36,7 @@ With a solid foundation in Object-Oriented Programming (OOP)
 📚 Currently learning: Advanced .NET, Clean Architecture & Design Patterns  
 🛠️ Tech Stack: C#, .NET, LINQ, SQL Server, OOP  
 🤝 Open to: Backend roles, internships & collaboration on .NET projects  
-📩 Reach me at: muhammedmahmoudgoda66@gmail.com  
+📩 Reach me at: ztkarmabwmtr@gmail.com  
 <br> <br>
 ## 🧰 Tob Tech Stack & Tools
 
