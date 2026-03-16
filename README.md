@@ -14,7 +14,7 @@
 
 
 
-<a href="https://wa.me/+20 12 22586912?text=مرحباً،%20أنا%20مهتم%20بخدماتكم">
+<a href="https://wa.me/+20 1226261924?text=مرحباً،%20أنا%20مهتم%20بخدماتكم">
   <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="28"/>
 </a>
 
